@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/wyfbfg222/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/wyfbfg222/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/wyfbfg222/189pan)
 
-**最后更新:** 2025-12-07 21:40:01 CST
+**最后更新:** 2025-12-08 11:04:16 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/wyfbfg222/189pan/actions)
-- 📋 [查看最新运行](https://github.com/wyfbfg222/189pan/actions/runs/20005084375)
+- 📋 [查看最新运行](https://github.com/wyfbfg222/189pan/actions/runs/20015302833)
 - 🏠 [返回项目主页](https://github.com/wyfbfg222/189pan)
 - ⚙️ [手动触发签到](https://github.com/wyfbfg222/189pan/actions/workflows/main.yml)
 
@@ -16,18 +16,17 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2025-12-07 21:40:01
+- **启动时间**: 2025-12-08 11:04:16
 - **账户数量**: 1 个
 
 ## 账户1
-登录过程出错: HTTPSConnectionPool(host='open.e.189.cn', port=443): Max retries exceeded with url: /api/logbox/oauth2/autoLogin.do?appId=cloud&version=v1.1&clientType=20010&format=redirect&paras=4EF15CEFA1C3551C5894DCED8E4F1B4E1DE117F22F248EE6A73247B4B131528D4B5AFA7E595BE286E2F355408D3A15D0C5AAA7965DF63CD9ED3147DF1398631D4DD31B1DD8FC1EE2B2F13FA68F852BE306333602D1DD701387C136A6FA0FB2FBB0A82B1899883C3CA773816688F46F45CBCE7D2FBB0D0379469BAB1424FFAD59DF5127F825557B42E3A5D9B409B2BC0E6F83E22377FC8D8D8F2DBACEF99C495BE9A5620EC9AE1E183E494ED6FDE777EB8B099A3219819C3737FACDE4579A9EC216D0EA8441205D2F0F06AFAB0B7B296D75943E9B5F347EC27F9E6D660F3702C5BC3F1F7BBA0F14364B956D54DB97EB28D37C3D2BB85B54DA4C7D00CAB899EB3542AC5FA85BC7E7379D9B0F53F4063CE5C585EC1D6970CEB2389DB27B043BA57AF35A80782B73C40C92FC50E94F142BAE99C35D326EF2DD04DE589C133DA66F60925DD25EC9C7BC1D0970628B2ECA6F8AA25C7B71D5122636D198AE059366444FDEBBC472C7877E8B11F7556DF93B1375EB79CFB2B462C300A9618863DA4A8102689681F5C492E45A594F36E79E35560311692657A937F9FB8E9A3E94DDFEEC2878188A57B9B19AE4B3ED7373456E978CCA340E285E6969F827070880CEA97395F8A91248A2F8C650DC9FFF3AED4508FC21C10C198C10D3D4BA9ACE59FB8B4880D184E9B7398895729ED9A596E1AC3CD1E2FAAC0457723C7480974F17204702ADAD00FF775CB8BFDDF8DE2652E6A67E9CDAAEE2B9150D4659&sign=DD7BD95E5FB2909A03F5B6FE4B232CA03FCD2918 (Caused by NewConnectionError("HTTPSConnection(host='open.e.189.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 ### 执行结果
 - **登录状态**: 登录失败
 - **签到结果**: 
 
 ---
 ## 执行统计
-- **结束时间**: 2025-12-07 21:44:31
-- **运行时长**: 270.28 秒
+- **结束时间**: 2025-12-08 11:04:19
+- **运行时长**: 3.12 秒
 
 ✅ **所有账户处理完成！**
